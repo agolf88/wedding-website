@@ -1,6 +1,6 @@
 # Wedding Website
 A beautiful, feature rich, device friendly wedding website.  
-_See [wedding.rampatra.com](http://wedding.rampatra.com/) for a demo. Use invite code `271117` to RSVP._
+_See [wedding.rampatra.com](https://wedding.andyandsarahbateman.com)
 
 # Highlights
 1. Slick and fully __responsive__ design.
@@ -19,12 +19,19 @@ use [GitHub pages](https://pages.github.com/) to host and Google sheets (with th
 
 # Documentation (pending...)
 Will add detailed instructions soon about Uber API and other configurations on this website but for now, you can follow
+
+-Register CNAME for wedding.#{domain}
+-Create favicons
+-Create png logos
+-Update Index.html
+-Setup Google API / Maps keys
+
+
 this [article](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) to setup your Google sheet
 for rsvp feature.
 
 # About Me
-Hello, my name is Ram. I am a Software Engineer at [Oath](https://www.oath.com/). I enjoy making teeny tiny applications in
-my leisure time and this is one of them. Now that my wedding is over, I am open-sourcing it. Hope you like it!
+Hello, my name is Andy. I am a Lead Developer living in Chicago. Please enjoy my changes to [@rampatra] wedding-website.
 
 # Contribute
-More than happy for PRs or [gifts](https://www.paypal.me/ramswaroop) :)
+More than happy for PRs or please send gifts to the creator [gifts](https://www.paypal.me/ramswaroop) :)
