@@ -1,12 +1,6 @@
 $(document).ready(function () {
 	
-	/***************** Force Https ******************/
-	if (location.protocol != 'https:')
-	{
-	location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
-	}
-
-    /***************** Waypoints ******************/
+	/***************** Waypoints ******************/
 
     $('.wp1').waypoint(function () {
         $('.wp1').addClass('animated fadeInLeft');

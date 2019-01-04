@@ -27,6 +27,7 @@ Will add detailed instructions soon about Uber API and other configurations on t
 -Update Index.html
 -Setup Google API / Analytics/Maps keys
 
+-Had issues getting node modules for windows machine, had to wipe node_modeules and reinstall. Gitpages didnt like my changes, so I keep them stashed
 
 this [article](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) to setup your Google sheet
 for rsvp feature.
