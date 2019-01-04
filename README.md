@@ -1,6 +1,6 @@
 # Wedding Website
 A beautiful, feature rich, device friendly wedding website.  
-_See [wedding.rampatra.com](https://wedding.andyandsarahbateman.com)
+_See [wedding.andyandsarahbateman.com](https://wedding.andyandsarahbateman.com)
 
 # Highlights
 1. Slick and fully __responsive__ design.
@@ -21,17 +21,18 @@ use [GitHub pages](https://pages.github.com/) to host and Google sheets (with th
 Will add detailed instructions soon about Uber API and other configurations on this website but for now, you can follow
 
 -Register CNAME for wedding.#{domain}
+-Setup SSL Cert
 -Create favicons
 -Create png logos
 -Update Index.html
--Setup Google API / Maps keys
+-Setup Google API / Analytics/Maps keys
 
 
 this [article](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) to setup your Google sheet
 for rsvp feature.
 
 # About Me
-Hello, my name is Andy. I am a Lead Developer living in Chicago. Please enjoy my changes to [@rampatra] wedding-website.
+Hello, my name is Andy. I am a Lead Developer living in Chicago. Please enjoy my changes to @rampatra wedding-website.
 
 # Contribute
 More than happy for PRs or please send gifts to the creator [gifts](https://www.paypal.me/ramswaroop) :)
