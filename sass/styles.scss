@@ -202,7 +202,7 @@ Navigation
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   border-radius: 1px;
-  background: #fff;
+  background: #000;
   cursor: pointer
 }
 .nav-toggle span:before {
@@ -278,7 +278,7 @@ Hero
     margin-bottom: 80px;
   }
   .hero-content {
-    padding-top: 40%;
+    padding-top: 60%;
   }
   .hero-content img {
     width: 55%;
@@ -293,13 +293,13 @@ Hero
 }
 .fixed {
   position: fixed;
-  background-color: rgba(55, 36, 40, .88);
+  background-color:  #a9a7aa;
   z-index: 999;
   width: 100%;
 }
 header {
   padding: 50px 0;
-  border-bottom: solid 1px rgba(255, 255, 255, 0.2);
+  border-bottom: solid 2px #333844;
   position: relative;
   width: 1170px;
   margin: 0 auto;
@@ -309,7 +309,8 @@ header {
     color: $txt-light;
     text-transform: uppercase;
     font-size: $nav-font-size;
-
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-weight: bold;
     &.login {
       margin-right: 20px;
     }
@@ -515,7 +516,7 @@ Features-stack
 ========================================================================== */
 .hero-strip {
   margin-top: 120px;
-  background: #333844 url("../img/polygonal-bg.jpg") no-repeat center center;
+  background: #F69D52 url("../img/polygonal-bg.jpg") no-repeat center center;
   padding-bottom: 190px;
   position: relative;
 
@@ -674,7 +675,7 @@ Engagement Pics
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: #F69D52;
     -moz-transition: all 300ms ease-in-out;
     -o-transition: all 300ms ease-in-out;
     -webkit-transition: all 300ms ease-in-out;
