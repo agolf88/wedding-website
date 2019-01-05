@@ -24,8 +24,10 @@ Will add detailed instructions soon about Uber API and other configurations on t
 -Setup SSL Cert
 -Create favicons
 -Create png logos
--Update Index.html
--Setup Google API / Analytics/Maps keys
+-Update index.html, js/scripts.js
+-Setup Google Analytics (Monitor)
+-Setup Google Maps (Events)
+-Setup Google Sheets Macro (RSVP)
 
 -Had issues getting node modules for windows machine, had to wipe node_modeules and reinstall. Gitpages didnt like my changes, so I keep them stashed
 
