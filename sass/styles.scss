@@ -516,7 +516,7 @@ Features-stack
 ========================================================================== */
 .hero-strip {
   margin-top: 120px;
-  background: #F69D52 url("../img/polygonal-bg.jpg") no-repeat center center;
+  background: rgb(124, 124, 124) url("../img/polygonal-bg.jpg") no-repeat center center;
   padding-bottom: 190px;
   position: relative;
 
@@ -524,7 +524,7 @@ Features-stack
     font-family: $accent-font;
     font-weight: 300;
     font-size: 25px;
-    color: #F69D52;
+    color: #333844;
     vertical-align: top;
     margin-left: -8px;
     font-style: normal;
@@ -675,7 +675,7 @@ Engagement Pics
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: #F69D52;
+    background-color: rgb(150, 150, 150);
     -moz-transition: all 300ms ease-in-out;
     -o-transition: all 300ms ease-in-out;
     -webkit-transition: all 300ms ease-in-out;
