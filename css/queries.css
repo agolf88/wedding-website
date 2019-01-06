@@ -293,7 +293,7 @@
 
 @media screen and (max-width: 480px) {
     .hero .hero-content {
-        padding-top: 110%;
+        padding-top: 150%;
     }
     
     .hero .hero-content img {
@@ -302,7 +302,7 @@
 
     .hero .btn {
         display: block;
-        width: 80%;
+        width: 30%;
         margin: 0 auto;
     }
 
