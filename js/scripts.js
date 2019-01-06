@@ -185,17 +185,17 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Andy & Sarah's Wedding",
+            title: "Andy&Sarah'sWedding",
 
             // Event start date
-            start: new Date('Sept 28, 2019'),
+            start: new Date(1569708000000),
 
             // Event duration (IN MINUTES)
-            // duration: 120,
+             duration: 300,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('Sept 30, 2018 00:00'),
+            //end: new Date('Sept 30, 2018 00:00'),
 
             // Event Address
             address: 'THE BLUFFS AT CONNER PRAIRIE 13400 Allisonville Rd, Fishers, IN 46038',
