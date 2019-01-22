@@ -185,7 +185,7 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Andy&Sarah'sWedding",
+            title: "Andy%20%26%20Sarah%27s%20Wedding",
 
             // Event start date
             start: new Date(1569708000000),
