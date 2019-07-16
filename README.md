@@ -1,6 +1,6 @@
 # Wedding Website
 A beautiful, feature rich, device friendly wedding website.  
-_See [wedding.andyandsarahbateman.com](https://wedding.andyandsarahbateman.com)
+See [sabateman.com](https://sabateman.com)
 
 # Highlights
 1. Slick and fully __responsive__ design.
