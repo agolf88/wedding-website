@@ -54,7 +54,6 @@
                                 <li><a href="#events">The Event</a></li>
                                 <li><a href="#map">Venue</a></li>
                                 <li><a href="#eng-pics">Engagement</a></li>
-                                <li><a href="#rsvp">RSVP</a></li>
                                 <li><a href="#registry">Registry</a></li>
                                 <li><a href="#hotels">Hotels</a></li>
 
@@ -82,15 +81,6 @@
                     </div>
                 </div>
             </div>
-
-        </div>
-        <div class="row">
-            <div class="col-sm-4 hidden-xs"></div>
-            <div class="col-sm-4 hidden-xs text-center"><a href="#rsvp"
-                    class="btn btn-accent btn-small btn-fill rsvp-btn">RSVP</a></div>
-            <div class="col-sm-4 hidden-xs"></div>
-            <div class="visible-xs-block text-center"><a href="#rsvp"
-                    class="btn btn-accent btn-small btn-fill rsvp-btn">RSVP</a></div>
 
         </div>
         <div class="down-arrow floating-arrow"><a href="#invitation"><i class="fa fa-angle-down"></i></a></div>
@@ -269,89 +259,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="rsvp text-center" id="rsvp">
-
-        <div id="rsvp-modal" class="modal fade" tabindex="-1" role="dialog">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span>&times;</span>
-                        </button>
-                        <div class="section-padding">
-                            <h3>Thank you!</h3>
-                            <div id="add-to-cal"></div>
-                        </div>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
-
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-md-offset-3">
-                    <!-- <h3>What are you waiting for?</h3> -->
-                    <p>We would greatly appreciate if you could RSVP</p>
-                    <form id="rsvp-form" class="rsvp-form" action="" method="POST">
-                        <div class="row">
-                            <div class="col-md-6 col-sm-6">
-                                <div class="form-input-group">
-                                    <i class="fa fa-envelope"></i><input type="email" name="email" class=""
-                                        placeholder="Your email" required>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6">
-                                <div class="form-input-group">
-                                    <i class="fa fa-key"></i><input type="number" name="invite_code" id="invite_code"
-                                        class="" min="0" placeholder="Invite code" required>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6" style="padding-bottom: 10px">
-                                <input  type="checkbox" name="extras"
-                                        class="" >No, I am not able to attend
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 col-sm-6">
-                                <div class="form-input-group">
-                                    <i class="fa fa-user"></i><input name="name1" class="" placeholder="Your Name" required>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6">
-                                <div class="form-input-group">
-                                    <input type="text" name="food1" list="food" placeholder="Dinner Selection (Optional)">
-                                    <datalist id="food">
-                                        <option value="Garlic Oil Grilled Beef Tenderloin">
-                                        <option value="Pecan Crusted Chicken Breast">
-                                        <option value="Crispy Artichoke and Garbanzo Cake with Grilled Eggplant">
-                                    </datalist>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 col-sm-6">
-                                <div class="form-input-group">
-                                    <i class="fa fa-user"></i><input name="name2" class="" placeholder="Guest Name (Optional)">
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6">
-                                <div class="form-input-group">
-                                    <input type="text" name="food2" list="food" placeholder="Dinner Selection (Optional)">
-                                    
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12" id="alert-wrapper"></div>
-                        </div>
-                        <button class="btn-fill rsvp-btn">
-                            Yes,
-                            that's me!
-                        </button>
-                    </form>
                 </div>
             </div>
         </div>
